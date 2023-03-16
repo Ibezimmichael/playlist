@@ -1,0 +1,1 @@
+this is a projects that scraps data from https://www.billboard.com and searches for the songs on spotify using api to create a playlist 
